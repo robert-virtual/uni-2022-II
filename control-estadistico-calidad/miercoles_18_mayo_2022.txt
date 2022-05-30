@@ -1,0 +1,89 @@
+viaje a la hitoria de la calidad
+
+- artesanal:
+	ausensia de control  de calidad
+	
+- la industrializacion:
+	produccion mecanizada
+	surgen los inpectores(controlar a los trabajadores)
+	
+	taylorismo: taylor padre de la administracion cientifica
+	critica el trabajador era visto como una maquina
+	
+	actualmente al trabajador se le ve como humano, surge recursos humanos(psicologos)
+	
+	planificacion del trabajo pasa a ser responsabilidad de ingenieros industriales
+	
+	henry ford: linea de ensamblaje
+	produccion en masa
+	
+
+principales exponentes de la calidad :
+
+- George Radford: primer libro de control de la calidad
+	utilidad doble ayuda a detectar fallas y mejorar la calidad ofreida, intentar evitar las fallas
+	problema: no hay enfoque preventivo 
+	solo se detectan las fallas
+	departamento de inspeccion
+
+segunda gerra mundial
+	- Walter A. Shewhart: padre del control estadistico de la calidad
+	trabajo en la wester electric
+	desarrollo las cartas de control
+	origino el ciclo de la mejora continua
+	en todos los procesos existen  variaciones 
+	(no son perfectos) porque los materiales,la maquinaria,los humanos no son perfectos
+	estas variaciones deben estudiarse estadisticamemnte 
+	
+	desafio el enfoque de calidad basado en la inpeccin e introdujo la gestion de la calidad
+	
+	- W. Edward deming
+    los japones le piden a deming que los capacite
+    donde inicia el movimiento de la calidad inicio en america y los japoneces 
+    pidieron a Deming que los capacite
+
+    influencia de Deming en japo
+    Deming aprendio de Shewhart
+
+
+
+ciclo de Shewhart(mejora continua) ciclo de mejora  continua
+actuar 
+Planear
+Hacer 
+verificar
+
+    
+Josep Juran	
+    constos
+
+Kaoru Ishikawa
+
+otros puntos clave 
+- 6 sigma:
+    Definir 
+    medir 
+    analizar 
+    mejorar
+    controlar
+
+
+
+	
+	
+	
+	
+	
+	
+	
+  
+	
+	
+	
+	
+	
+	
+	
+
+
+

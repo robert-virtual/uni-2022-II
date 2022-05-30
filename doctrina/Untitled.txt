@@ -1,0 +1,28 @@
+
+
+
+
+
+
+La principal desventaja de este metodo es el tiempo que toma realizar todo el proceso de recollecion
+se deberia centralizar la recoleccion de informacion y permitir a cada departamente 
+enviar esta informaciona una base de datos a traves de un sistema que les permisa actualizar la informacion
+
+
+
+2
+Impacto
+En la empresa la recopilación de datos y elaboración de informes se realiza de forma manual 
+utilizando hojas de cálculo lo cual provoca que se pierda tiempo y dinero, ademas que al 
+realizarlos manualmente se corre el riesgo de que los documentos se pierdan 
+y no haya un respaldo de la respectiva información.
+
+
+3
+
+creo que el impacto que tiene en el desempeño de la empresa esta el hecho que ára recolectar
+toda esta información el analista debe de moverse de su puesto de trajo, esto en concepto de 
+calidad sabemos que es una pérdida en el tiempo productivo del empleado. y segundo atrasa la 
+toma de decisiones, ya que, al tener que esperar a que la información esté completa y esperar
+si alguien tiene que actualizar quita tiempo al tomar desiciones.
+
